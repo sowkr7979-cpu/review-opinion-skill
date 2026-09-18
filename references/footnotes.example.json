@@ -1,0 +1,17 @@
+{
+ "0000-11": {
+  "url": "https://db.kasb.or.kr/s/0000",
+  "title": "기준서 제0000호 문단 11",
+  "excerpt": "“(기준서 원문 발췌) ― 중략 ― (원문)”"
+ },
+ "0000-23": {
+  "url": "https://db.kasb.or.kr/s/0000/{섹션ID}",
+  "title": "기준서 제0000호 문단 23",
+  "excerpt": "“(기준서 원문 발췌)”"
+ },
+ "qna-1": {
+  "url": "https://www.kasb.or.kr/front/board/View016005.do?siteCd=002000000000000&seq={seq}&ctgCd=016005",
+  "title": "한국회계기준원 K-IFRS 신속처리질의 「제목」(회신 YYYY-MM-DD)",
+  "excerpt": "“(회신 원문 발췌)” 신속처리질의는 기준원 연구원의 개인적 견해로 기준원 공식 의견과 다를 수 있습니다."
+ }
+}
